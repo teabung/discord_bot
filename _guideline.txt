@@ -1,0 +1,28 @@
+Here are all the commands available from me.
+
+$calculate -a mathemetical expression-
+('+': addition, '-': subtraction, '*': multiplication, '/': division, '^': exponent, '%': modulo)
+-> Variables should not be used otherwise it'll throw you an error. <-
+Ex. $calculate 1+2, $calculate 2+(4^2+2), etc.
+
+$countdown -desired amount of seconds-
+Ex. $countdown 10 -> I'll ping you in 10 seconds.
+^ ^ ^
+$stop
+I'll stop the countdown(Only available when $countdown is activated).
+
+$quiz
+-> This command is only available in 'cb_quiz'. <-
+I'll give you a quiz with 5 questions. Their difficulties are at random.
+The more difficult the question is, the more time will be given to solve.
+The number of correct and incorrect answers are counted and will be shown to you as result.
+^ ^ ^
+$screw
+You can stop taking the quiz using this command(Only available when $quiz is activated).
+
+$leave
+-> Only members with the permission of kicking others are allowed to use this command. <-
+I will leave the server.
+
+$help
+Lists commands.
