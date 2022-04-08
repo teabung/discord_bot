@@ -1,7 +1,7 @@
 #from asyncio.windows_events import NULL
 from email import message
 from multiprocessing import Condition
-from turtle import addshape, title
+#from turtle import addshape, title
 import discord
 from dotenv import load_dotenv
 import os
